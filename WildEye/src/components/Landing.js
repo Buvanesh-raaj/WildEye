@@ -31,7 +31,7 @@ const Landing = () => {
             <div className="container-fluid">
               <div className="d-flex align-items-center">
                 <div className="site-logo"><img src={process.env.PUBLIC_URL +"/imgs/Logo.png"} alt="WildEye-Logo" height="50" width="50"/></div>
-                <h5>&nbsp;WildEye</h5>
+                <h5>&nbsp;WildGuard</h5>
                 <div>
                   <nav className="site-navigation position-relative text-right" role="navigation">
                     <ul className="site-menu main-menu js-clone-nav mr-auto d-none d-xl-block">
